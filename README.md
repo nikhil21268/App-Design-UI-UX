@@ -42,3 +42,17 @@ https://www.figma.com/files/project/93241945/iHCI_Project?fuid=12418211990541688
 ![App Screenshot](https://github.com/nikhil21268/App-Design-UI-UX/blob/main/Screenshots/iHCI_FinalPPT_ExtractedPages_for_GitHub-25.png)
 ![App Screenshot](https://github.com/nikhil21268/App-Design-UI-UX/blob/main/Screenshots/iHCI_FinalPPT_ExtractedPages_for_GitHub-26.png)
 ![App Screenshot](https://github.com/nikhil21268/App-Design-UI-UX/blob/main/Screenshots/iHCI_FinalPPT_ExtractedPages_for_GitHub-27.png)
+
+# Copyright and License
+
+## Copyright (c) 2024, Nikhil Suri
+
+## All rights reserved
+
+This code and the accompanying materials are made available on an "as is" basis, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+## No Licensing
+This project is protected by copyright and other intellectual property laws. It does not come with any license that would permit reproduction, distribution, or creation of derivative works. You may not use, copy, modify, or distribute this software and its documentation without express written permission from the copyright holder.
+
+## Contact Information
+For further inquiries, you can reach me at nikhil21268@iiitd.ac.in
